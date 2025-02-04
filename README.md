@@ -27,7 +27,7 @@
 3. [**Java Explore With Me**](https://github.com/Niks5041/java-explore-with-me.git)  
    Платформа для поиска и регистрации на мероприятия.
 
-4. [**Currency Exchange**](https://github.com/Niks5041/currencyExchange.git)  
+4. [**Currency Exchange**] (https://github.com/Niks5041/currencyExchange.git)
    Простое веб-приложение для управления данными об обмене валют.
 
 5. [**Hangman Game (Виселица)**](https://github.com/Niks5041/hangman-game.git)  
@@ -35,6 +35,10 @@
 
 6. [**ContactBookApp**](https://github.com/Niks5041/contactbookapp.git)  
    Данный проект представляет собой систему для управления информацией о клиентах и их контактными данными (номерами телефонов и адресами электронной почты).
+
+7. [**Погода**](https://github.com/Niks5041/weatherApp.git)
+   Веб-приложение для просмотра текущей погоды. Пользователь может зарегистрироваться, авторизоваться и добавить в коллекцию одну или несколько локаций, после чего главная страница приложения начинает отображать список локаций с их текущей погодой.  
+   **Стек**: PostgreSQL, RESTful API, Spring Boot, Maven, Docker, JUnit, Hibernate, JPA, MVC(S), Thymeleaf, Mockito.
 
 
 ---
